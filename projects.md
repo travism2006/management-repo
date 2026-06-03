@@ -26,7 +26,7 @@ This was a group school project that involved a software development lifecycle t
 ### HungryRobots (2015):
 This was a school project with the objective of making a basic website with Dreamweaver, HTML and CSS. I decided to make one for those interested in making healthy fast food decisions by making comparisons across various food chains and franchises (e.g. Starbucks, Panera).  Instead of using the CSS and Dreamweaver version used in coursework, I opted for CSS3, jQuery, AngularJS and using DevTools for UI design work and UI testing. Acknowledging what industry was using, using AngularJS and CSS3 enabled a dynamic website, with an implementation of two-way data binding and integrating a JS framework with that demonstrated MVC fundamentals. My rationale for selecting AngularJS was a proactive choice to realign my learning with the reality of production environments and industry-standard design patterns; implementing its custom directives allowed for reusable UI components, while its built-in dependency injection and basic client-side routing provided hands-on experience with how professional, enterprise systems scale and manage state.
 
-
+&nbsp;
 ## Personal Projects
 &nbsp;
 ### Batch Image Scraper (personal, 2021-2024):
