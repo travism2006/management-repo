@@ -1,4 +1,4 @@
-# Personal + non-personal Projects
+<h1 align="center">Personal + Non-personal Projects</h1>
 
 ## Projects (non-personal)
 &nbsp;
