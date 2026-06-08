@@ -9,6 +9,16 @@ Developed a strict HTML and CSS layout system optimized for physical print asset
 
 &nbsp;
 
+### Media and Metadata Archive (personal, 202X-2025):
+Developed a Dockerized Python application for batch media ingestion and archival. Implemented duplicate detection, metadata extraction, and failure recovery mechanisms. Utilized FFmpeg and yt-dlp for batch processing and automation. Enhanced the application in 2025 to collect structured metadata to enable improved search capabilities. 
+
+&nbsp;
+
+### Digital Image Processing (personal project):
+Built an object-identification application with OpenCV and Python for smartphone images. Applied image processing techniques including grayscale filtering, feature extraction, and Canny edge detection to identify and isolate features/objects. Tuned edge detection parameters to improve feature recognition across different image qualities and backgrounds. 
+On a larger scale, this project would be relevant to identifying features/objects on the ground from satellite images.
+
+&nbsp;
 
 ### Senior Capstone Project (2019):
 This was a year-long group project with the objective of providing a secure portal system for a real-world client (ASAP Firewatch), to use for shift management.  This resulted in saving the executives time spent on calling employees to see who could take a shift, to spending that same time towards marketing and sales.  The web application used Python 3 for Django, HTML and CSS, jQuery, Bootstrap 4, and a MySQL Database.  From a security standpoint, the web app used Django’s default SHA256 encryption for password storing, and the team added a Role-Based Permissions using Django Administration to further harden the system boundaries between portals.  Furthermore, to prevent security breaches from SQL Injection, XSS, Cross Site Request Forgery and others, each portal containing forms requiring user input was tested and validated for proper encryption.
