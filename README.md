@@ -1,5 +1,5 @@
 # How to Use
-I made this to help myself mostly. I've historically had various ideas I'd work on, or per University courses have to create various types of documentation (e.g.SSP plan documents).
+I made this to help myself mostly. I've historically had various ideas I'd work on, or per University courses have to create various types of documentation (e.g.SSP).
 
 This is also useful for when I've wanted to prepare short descriptions of projects I've worked on into my resume.
 
